@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ResumeApplication<resume>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.backend.resume.ResumeApplication",
+            "projectName": "resume",
+            "args": ""
+        }
+    ]
+}
